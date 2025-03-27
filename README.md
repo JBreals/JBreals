@@ -32,8 +32,11 @@ Here are some ideas to get you started:
   </div>
   
   <br/><br/><br/>
-  <img alt = "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=JBreals&show_icons=true&theme=radical" />
-
+  <div style="display: flex; justify-content: space-between;">
+    <img alt = "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=JBreals&show_icons=true&theme=radical" />
+    <img alt = "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=JBreals&show_icons=true&theme=radical" />
+  </div>
+  
 
 </div>
 
