@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Streamlit-1.0-red?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-brightgreen?style=flat&logo=Javascript&logoSize=amg" width="90" height= "25">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-blue?style=plastic&logo=React&logoSize=amg" width="90" height= "25">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%2303c2fc?style=flat&logo=TypeScript&logoSize=amg" width="90" height= "25">
+
 
 </div>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
