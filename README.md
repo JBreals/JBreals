@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JB's%20PAGE&fontSize=90">
 </div>
-
+</br></br></br></br></br></br>
 
 <div align="center">
   <div>
