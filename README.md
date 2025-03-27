@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JB's%20PAGE&fontSize=90)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?logo=%23F7DF1E">
+![Static Badge](https://img.shields.io/badge/:badgeContent?logo=%23F7DF1E)
 
 
