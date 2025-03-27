@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <br/><br/><br/>
   <div style="display: flex; justify-content: space-between;">
     <img alt = "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=JBreals&show_icons=true&theme=radical" width="340" />
-    <img alt = "Velog" src = "https://velog-readme-stats.vercel.app/api?name=jaB" />
+    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaB)](https://github.com/eungyeole/velog-readme-stats)
   </div>
   
 
