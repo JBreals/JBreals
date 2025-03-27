@@ -33,8 +33,10 @@ Here are some ideas to get you started:
   
   <br/><br/><br/>
   <p align="center">\
-    <a href = "https://github.com/JBreals"> <img alt = "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=JBreals&show_icons=true&theme=radical" height="160em" />
- <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBreals&layout=compact&theme=nord&hide_border=true" /> </a>
+    <a href = "https://github.com/JBreals"> 
+      <img alt = "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=JBreals&show_icons=true&theme=radical" height="160em" />
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBreals&layout=compact&theme=nord&hide_border=true" /> 
+    </a>
    
   </p>
   
