@@ -24,6 +24,7 @@ Here are some ideas to get you started:
     <img alt="Static Badge" src="https://img.shields.io/badge/React-blue?style=plastic&logo=React&logoSize=amg" width="90" height= "25">
     <img alt="Static Badge" src="https://img.shields.io/badge/Python-%23deed9a?style=flat&logo=Python&logoSize=amg" width="90" height= "25">
   </div>
+  </br>
   <div>
     <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23f5ce5b?style=flat&logo=html5&logoSize=amg" width="90" height= "25">
     <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%23f5ce5b?style=flat&logo=css3&logoSize=amg" width="90" height= "25">
