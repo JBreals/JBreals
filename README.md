@@ -32,9 +32,9 @@ Here are some ideas to get you started:
   </div>
   
   <br/><br/><br/>
-  <div style="display:flex; align-items:center; justify-contents:space-between;">
+  <div style="display:flex; align-items:center; justify-content:space-between;">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBreals&show_icons=true&theme=radical)
-
+  </div>
 </div>
 
 
