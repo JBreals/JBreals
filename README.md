@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   </div>
   <div>
     <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23f5ce5b?style=flat&logo=html5&logoSize=amg" width="90" height= "25">
+    <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%23f5ce5b?style=flat&logo=css3&logoSize=amg" width="90" height= "25">
+
   </div>
 
 </div>
