@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JB's%20PAGE&fontSize=90)
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JB's%20PAGE&fontSize=90">
 </div>
 
 
