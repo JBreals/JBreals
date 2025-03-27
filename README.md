@@ -30,7 +30,9 @@ Here are some ideas to get you started:
     <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%23f5ce5b?style=flat&logo=css3&logoSize=amg" width="90" height= "25">
 
   </div>
-
+  
+  <br/><br/><br/>
+  <div style="display:flex; align-items:center; justify-contents:space-between;">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBreals&show_icons=true&theme=radical)
 
 </div>
