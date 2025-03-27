@@ -34,7 +34,11 @@ Here are some ideas to get you started:
   <br/><br/><br/>
   <div style="display: flex; justify-content: space-between;">
     <img alt = "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=JBreals&show_icons=true&theme=radical" width="340" />
-    <img alt = "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=JBreals&show_icons=true&theme=radical" width="340"/>
+    <div align="center" style="text-align:center">
+  //  위 아래 한칸씩 꼭 비워야 함.
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaB)]
+  //  위 아래 한칸씩 꼭 비워야 함.
+</div>
   </div>
   
 
